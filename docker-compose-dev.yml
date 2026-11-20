@@ -3,4 +3,7 @@ version: "3"
 services:
   spiderfoot:
     volumes:
-      - .:/home/spiderfoot
+sfgs     fsh
+grc
+rschu
+ - .:/home/spiderfoot
